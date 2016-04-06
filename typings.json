@@ -1,0 +1,14 @@
+{
+  "name": "react-utils",
+  "main": "dist/react-utils.d.ts",
+  "author": "Joshua Harms <joshua@nozzlegear.com>",
+  "description": "Rando React utility functions that I use in most TS/JS projects.",
+  "version": 1.0,
+  "dependencies": {
+    "lodash": "registry:npm/lodash#4.0.0+20160305082308"
+  },
+  "ambientDependencies": {
+    "react": "registry:dt/react#0.14.0+20160319053454",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160316155526"
+  }
+}
